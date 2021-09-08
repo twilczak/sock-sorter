@@ -1,0 +1,22 @@
+{
+  "name": "sock-sorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example1": "node index.js white red black",
+    "example2": "node index.js white pink pink white",
+    "example3": "node index.js white pink pink white pink white checkered checkered checkered",
+    "example4": "node index.js white pink pink white pink white checkered checkered checkered white"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilczak/sock-sorter.git"
+  },
+  "author": "Thomas Wilczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twilczak/sock-sorter/issues"
+  },
+  "homepage": "https://github.com/twilczak/sock-sorter#readme"
+}
